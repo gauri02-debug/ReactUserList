@@ -6,3 +6,6 @@ Intuitive user interface for selecting and managing users.
 Search functionality with real-time filtering of predefined user list.
 Responsive design for seamless user experience on various devices.
 User chips with a removal option for easy management.
+
+![image](https://github.com/gauri02-debug/ReactUserList/assets/77614293/a3182289-19fe-4ee1-bf9c-7ff0e111d8f4)
+
